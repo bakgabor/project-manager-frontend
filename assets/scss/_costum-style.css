@@ -1,0 +1,16 @@
+html {
+  min-height: 100%;
+  background:  #d7dbdd;
+}
+
+.is-main-section {
+  background:  #d7dbdd;
+}
+
+textarea {
+  outline: none;
+}
+
+input {
+  outline: none;
+}
